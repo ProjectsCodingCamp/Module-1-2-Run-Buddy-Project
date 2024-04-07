@@ -4,7 +4,7 @@
 * main heading is written with "h1" tag
 * navigation var is done that includes "list in unoreder list" tag
 * main headind and nav are linked with "a" tag.
-* h1 is used with "display: inline;" to show oneline and nav slector must be kept with "float: right" and margin: 7px 0.
+* h1 is used with "display: inline;" to show oneline and nav slector must be kept   with "float: right" and margin: 7px 0.
 * Universal slector should be used with "margin: 0; padding: 0;" to be inline.
 * The challenge is that nav is difficult to move without using universal selector.
 
@@ -22,7 +22,7 @@
 ### Footer
 * Footer is written with h2.
 * It includes copy right policy written with a tag.
-* Heart icon is copied from [oogle](https://emojiguide.org/red-heart).
+* Heart icon is copied from (https://emojiguide.org/red-heart).
 
 * Footer h2 selector is kept display: inline; color: blue and margin: 0;
 * In the footer div selector, float: right and text-align: right.
