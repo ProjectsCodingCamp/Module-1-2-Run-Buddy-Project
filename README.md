@@ -4,7 +4,7 @@
 * main heading is written with "h1" tag
 * navigation var is done that includes "list in unoreder list" tag
 * main headind and nav are linked with "a" tag.
-* h1 is used with "display: inline;" to show oneline and nav slector must be kept   with "float: right" and margin: 7px 0.
+* In Css, h1 is used with "display: inline;" to show oneline and nav slector must be kept   with "float: right" and margin: 7px 0.
 * Universal slector should be used with "margin: 0; padding: 0;" to be inline.
 * The challenge is that nav is difficult to move without using universal selector.
 
