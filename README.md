@@ -9,7 +9,6 @@
 * The challenge is that nav is difficult to move without using universal selector.
 
 
-
 ### Body
 **Body include four-sections. They are...**
 1. What We Do Section
@@ -29,6 +28,6 @@
 * Its backgroung color is yellow.
 
 
-#Manin challenges: 
+#Main challenges: 
 * Git push
 * Git merge
