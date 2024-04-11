@@ -95,6 +95,70 @@ header nav ul li a {
     font-size: 16px;
 }
 
+/* What We Do Section */
+
+.intro{
+    text-align: center;
+    padding: 55px;
+}
+
+.intro p{
+    color: #39a6b2;
+    font-size: 20px;
+    margin: 0 auto;
+    line-height: 1.5;
+    width: 78%;
+}
+
+/* What You Do Section */
+
+.steps{
+    text-align: center;
+    background: #fce138;
+    padding: 55px;
+}
+
+.steps div{
+    margin-bottom: 80px;
+}
+
+.steps h3{
+    color: #024e76;
+    font-size: 47px;
+    margin-top: 10px;
+}
+
+.steps img{
+    width: 16%;
+    margin: 10px 0;
+}
+
+.steps p{
+    color: #39a6b2;
+    font-size: 23px;
+}
+
+.steps span{
+    font-size: 38px;
+}
+
+.section-title{
+    font-size: 55px;
+    color: #024e76;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    display: inline-block;
+    border-bottom: 3px solid;
+  }
+  
+  .primary-border {
+    border-color: #fce138;
+  }
+  
+  .secondary-border {
+    border-color: #39a6b2;
+  }
+
 /* REACH OUT STYLE START */
 .contact {
     text-align: center;
