@@ -18,6 +18,12 @@
 * The section is coded with h2 tag.
 * The body section is colored with blue.
 
+## Reach out section
+* The title is coded with h2 tag.
+* The section of information for inquiring is wittern with p tag. 
+* In the contact-info, a map is showed with iframe.
+* Address, including email with a tag is given.
+
 ### Footer
 * Footer is written with h2.
 * It includes copy right policy written with a tag.
