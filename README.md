@@ -24,6 +24,16 @@
 * In the contact-info, a map is showed with iframe.
 * Address, including email with a tag is given.
 
+## Privacy-Policy
+* It explains about copyright policy in detail.
+* Privacy-policy-html and css files are added.
+* In this section, title and navigation links are included in the header.
+* There is a hero section. In this section, page title is used with h2.
+* There is also a secondary-content. It is written with p tag but its title is h3 tag.
+* Footer is similar to previous one.
+###Challenge:
+It is confused to write new html and css.
+
 ### Footer
 * Footer is written with h2.
 * It includes copy right policy written with a tag.
