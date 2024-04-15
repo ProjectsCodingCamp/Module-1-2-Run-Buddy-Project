@@ -8,6 +8,9 @@
 * Universal slector should be used with "margin: 0; padding: 0;" to be inline.
 * The challenge is that nav is difficult to move without using universal selector.
 
+###Challenges:
+* One of our members forgot to write ID in Form section. But we tried to solved it and got a nice form.
+
 
 ### Body
 **Body include four-sections. They are...**
