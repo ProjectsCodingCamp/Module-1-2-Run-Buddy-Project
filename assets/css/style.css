@@ -230,51 +230,46 @@ header nav ul li a {
     border-color: var(--tertiary-color);
   }
   /* SECTION TITLE STYLES END */
-s
-main {
+
+/* MEET THE TRAINERS START */
+.trainers {
+    width: 100%;
+    margin: 0 auto;
     display: flex;
-    margin-top: 2%;
-}
-
-.go {
-    flex: 1 1 0;
-    padding: 50px;
-    text-align: center;
-    border: 2px solid #13293d;
-    color: #fce138;
-    justify-content: center;
-}
-
-.go h3 {
-    font-size: 36px;
-    background-color: #13293d;
-    max-width: 80%;
-    margin-left: 10%;
-}
-
-.go h4 {
-    font-size: 26px;
-    background-color: #13293d;
-    max-width: 80%;
-    margin-left: 10%;
-}
-
-.go p {
-    /* padding: 20px; */
-    font-size: 20px;
-    background-color: #13293d;
-    max-width: 80%;
-    margin-left: 10%;
-}
-
-.go img {
-    width: 80%;
-    min-width: 200px;
-}
-
-.trainer-bio.text-left {
-    text-align: left;
-}
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .trainer {
+    margin: 20px;
+    flex: 1;
+    background: var(--secondary-color);
+    color: var(--primary-color);
+  }
+  
+  .trainer img {
+    width: 100%;
+  }
+  
+  .trainer-bio {
+    padding: 25px;
+    line-height: 1.3;
+  }
+  
+  .trainer-bio h3 {
+    font-size: 28px;
+  }
+  
+  .trainer-bio h4 {
+    font-weight: lighter;
+    font-size: 22px;
+    margin-bottom: 15px;
+  }
+  
+  .trainer-bio p {
+    font-size: 17px;
+  }
+  /* TRAINER STYLES END */
 
 /* REACH OUT STYLE START */
 .contact {
