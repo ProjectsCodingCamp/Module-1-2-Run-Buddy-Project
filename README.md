@@ -1,4 +1,12 @@
 # Run-Buddy (Module-2)
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
 ## Code for this lesson
 ### Header
 * main heading is written with "h1" tag
@@ -8,7 +16,7 @@
 * Universal slector should be used with "margin: 0; padding: 0;" to be inline.
 * The challenge is that nav is difficult to move without using universal selector.
 
-###Challenges:
+#### Challenges:
 * One of our members forgot to write ID in Form section. But we tried to solved it and got a nice form.
 
 
@@ -21,20 +29,21 @@
 * The section is coded with h2 tag.
 * The body section is colored with blue.
 
-## Reach out section
+### Reach out section
 * The title is coded with h2 tag.
 * The section of information for inquiring is wittern with p tag. 
 * In the contact-info, a map is showed with iframe.
 * Address, including email with a tag is given.
 
-## Privacy-Policy
+### Privacy-Policy
 * It explains about copyright policy in detail.
 * Privacy-policy-html and css files are added.
 * In this section, title and navigation links are included in the header.
 * There is a hero section. In this section, page title is used with h2.
 * There is also a secondary-content. It is written with p tag but its title is h3 tag.
 * Footer is similar to previous one.
-###Challenge:
+  
+#### Challenge:
 It is confused to write new html and css.
 
 ### Footer
@@ -47,6 +56,6 @@ It is confused to write new html and css.
 * Its backgroung color is yellow.
 
 
-#Main challenges: 
+## Main challenges: 
 * Git push
 * Git merge
