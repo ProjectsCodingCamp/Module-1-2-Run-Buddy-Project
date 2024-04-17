@@ -1,4 +1,4 @@
-# Run-Buddy
+# Run-Buddy (Module-2)
 ## Code for this lesson
 ### Header
 * main heading is written with "h1" tag
