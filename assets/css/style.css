@@ -352,7 +352,7 @@ footer a {
     color:var(--secondary-color);
 }
 
-/* Media screen part "Header" */
+/* Media query for smaller desktop screens and smaller */
 @media  screen and (max-width: 980px) {
 header {
     padding-bottom: 0;
@@ -398,6 +398,37 @@ footer h2, footer div {
       
 .contact-info iframe{
     flex: 1 100%;
+}  
+}
+
+/* Media query for mobile phone and smalle */
+@media screen and (max-width: 575px) {
+.hero-form button {
+    width: 100%;
+}
+
+.section-title {
+    width: 95%;
+}
+
+.intro p {
+    width: 100%;
+}
+
+.trainer {
+    flex: 0 100%;
+}
+
+.contact-info {
+    text-align: center;
+}
+
+.contact-info > * {
+    flex: 0 100%;
+}
+
+.contact-form {
+    order: 3;
 }  
 }
 
