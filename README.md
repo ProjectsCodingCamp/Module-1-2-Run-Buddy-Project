@@ -8,7 +8,10 @@ A website that offers fitness training services.
 * CSS
 
 ## Code for this lesson
-### Header
+### Completed with these Steps
+*
+
+#### Header
 * main heading is written with "h1" tag
 * navigation var is done that includes "list in unoreder list" tag
 * main headind and nav are linked with "a" tag.
@@ -16,7 +19,7 @@ A website that offers fitness training services.
 * Universal slector should be used with "margin: 0; padding: 0;" to be inline.
 * The challenge is that nav is difficult to move without using universal selector.
 
-#### Challenges:
+##### Challenges:
 * One of our members forgot to write ID in Form section. But we tried to solved it and got a nice form.
 
 
