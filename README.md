@@ -9,7 +9,7 @@ A website that offers fitness training services.
 
 ## Code for this lesson
 ### Completed with these Steps
-* Flexbox (flexwrap, justify-content)
+** Flexbox **
 * position (sticky)
 * CSS variables, on the " :root " pseudo-class
 * pueudo class and element
