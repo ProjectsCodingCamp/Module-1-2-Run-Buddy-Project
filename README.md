@@ -11,7 +11,9 @@ A website that offers fitness training services.
 ### Completed with these Steps
 * Flexbox (flexwrap, justify-content)
 * position (sticky)
-* CSS variables,on the " :root " pseudo-class
+* CSS variables, on the " :root " pseudo-class
+* pueudo class and element
+* @media screen , to view the site on various screens and devices
 
 #### Header
 * main heading is written with "h1" tag
