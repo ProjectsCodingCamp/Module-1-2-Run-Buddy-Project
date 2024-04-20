@@ -4,13 +4,16 @@
 A website that offers fitness training services.
 
 ## Built With
-* HTML
-* CSS
+1. HTML
+2. CSS
 
 ## Code for this lesson
 ### Completed with these Steps
-** Flexbox **
-* position (sticky)
+
+**Flexbox**
+Flexbox is a one-dimensional layout method for arranging items in rows or columns.
+
+* Position (sticky)
 * CSS variables, on the " :root " pseudo-class
 * pueudo class and element
 * @media screen , to view the site on various screens and devices
