@@ -9,7 +9,9 @@ A website that offers fitness training services.
 
 ## Code for this lesson
 ### Completed with these Steps
-*
+* Flexbox (flexwrap, justify-content)
+* position (sticky)
+* CSS variables,on the " :root " pseudo-class
 
 #### Header
 * main heading is written with "h1" tag
