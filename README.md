@@ -13,7 +13,7 @@ A website that offers fitness training services.
 **Flexbox**
 Flexbox is a one-dimensional layout method for arranging items in rows or columns.
 
-* Position (sticky)
+* Position 
 * CSS variables, on the " :root " pseudo-class
 * pueudo class and element
 * @media screen , to view the site on various screens and devices
